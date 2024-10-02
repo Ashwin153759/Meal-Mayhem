@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d4af1d6a8ac298479f64b4ea39a5a63, type: 3}
+  m_Name: CabbageBurger
+  m_EditorClassIdentifier: 
+  kitchenObjectSOList:
+  - {fileID: 11400000, guid: fa69a57ff0ff0df44b88683e6fc2c529, type: 2}
+  - {fileID: 11400000, guid: f028e22fa754bc74c87852ddcb1fbb70, type: 2}
+  - {fileID: 11400000, guid: b8cd37b5f6894234385dff8bacc3a6f4, type: 2}
+  recipeName: Cabbage Burger

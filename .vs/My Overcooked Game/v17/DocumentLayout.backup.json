@@ -1,0 +1,570 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|c:\\program files\\unity projects\\my overcooked game\\assets\\_assets\\scripts\\ui\\optionsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\ui\\optionsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|c:\\program files\\unity projects\\my overcooked game\\assets\\_assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|c:\\program files\\unity projects\\my overcooked game\\assets\\_assets\\scripts\\counters\\cuttingcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\counters\\cuttingcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|C:\\Program Files\\Unity Projects\\My Overcooked Game\\assets\\_assets\\scripts\\kitchengamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\kitchengamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|C:\\Program Files\\Unity Projects\\My Overcooked Game\\assets\\_assets\\scripts\\deliverymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\deliverymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|C:\\Program Files\\Unity Projects\\My Overcooked Game\\assets\\_assets\\scripts\\ui\\deliverymanagerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\ui\\deliverymanagerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|C:\\Program Files\\Unity Projects\\My Overcooked Game\\assets\\_assets\\scripts\\ui\\deliverymanagersingleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\ui\\deliverymanagersingleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|C:\\Program Files\\Unity Projects\\My Overcooked Game\\assets\\_assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|C:\\Program Files\\Unity Projects\\My Overcooked Game\\assets\\_assets\\scripts\\resetstaticdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\resetstaticdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|C:\\Program Files\\Unity Projects\\My Overcooked Game\\assets\\_assets\\scripts\\counters\\trashcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\counters\\trashcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|C:\\Program Files\\Unity Projects\\My Overcooked Game\\assets\\_assets\\scripts\\counters\\basecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\counters\\basecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|C:\\Program Files\\Unity Projects\\My Overcooked Game\\assets\\_assets\\scripts\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|C:\\Program Files\\Unity Projects\\My Overcooked Game\\assets\\_assets\\scripts\\ui\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\ui\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|C:\\Program Files\\Unity Projects\\My Overcooked Game\\assets\\_assets\\scripts\\ui\\gamepauseui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\ui\\gamepauseui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|C:\\Program Files\\Unity Projects\\My Overcooked Game\\assets\\_assets\\scripts\\scriptableobjects\\recipelistso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\scriptableobjects\\recipelistso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|C:\\Program Files\\Unity Projects\\My Overcooked Game\\assets\\_assets\\scripts\\counters\\deliverycounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\counters\\deliverycounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|C:\\Program Files\\Unity Projects\\My Overcooked Game\\assets\\_assets\\scripts\\scriptableobjects\\recipeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\scriptableobjects\\recipeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|C:\\Program Files\\Unity Projects\\My Overcooked Game\\assets\\_assets\\scripts\\counters\\stovecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\counters\\stovecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|C:\\Program Files\\Unity Projects\\My Overcooked Game\\assets\\_assets\\scripts\\stovecountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\stovecountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|C:\\Program Files\\Unity Projects\\My Overcooked Game\\assets\\_assets\\scripts\\scriptableobjects\\fryingrecipeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\scriptableobjects\\fryingrecipeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|C:\\Program Files\\Unity Projects\\My Overcooked Game\\assets\\_assets\\scripts\\platekitchenobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\platekitchenobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|C:\\Program Files\\Unity Projects\\My Overcooked Game\\assets\\_assets\\scripts\\platecompletevisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\platecompletevisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|C:\\Program Files\\Unity Projects\\My Overcooked Game\\assets\\_assets\\scripts\\kitchenobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\kitchenobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|C:\\Program Files\\Unity Projects\\My Overcooked Game\\assets\\_assets\\scripts\\counters\\clearcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\counters\\clearcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|C:\\Program Files\\Unity Projects\\My Overcooked Game\\assets\\_assets\\scripts\\scriptableobjects\\burningrecipeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\scriptableobjects\\burningrecipeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|C:\\Program Files\\Unity Projects\\My Overcooked Game\\assets\\_assets\\scripts\\counters\\platescountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\counters\\platescountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|C:\\Program Files\\Unity Projects\\My Overcooked Game\\assets\\_assets\\scripts\\counters\\platescounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\counters\\platescounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|C:\\Program Files\\Unity Projects\\My Overcooked Game\\assets\\_assets\\scripts\\counters\\cuttingcountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\counters\\cuttingcountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|C:\\Program Files\\Unity Projects\\My Overcooked Game\\assets\\_assets\\scripts\\ihasprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\ihasprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|C:\\Program Files\\Unity Projects\\My Overcooked Game\\assets\\_assets\\scripts\\lookatcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\lookatcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|C:\\Program Files\\Unity Projects\\My Overcooked Game\\assets\\_assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C69C4C2-5006-BCEF-9CE6-467FBEEF8321}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\PlateIconsSingleUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Assets\\Scripts\\PlateIconsSingleUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\PlateIconsUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Assets\\Scripts\\PlateIconsUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\ProgressBarUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Assets\\Scripts\\ProgressBarUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\SoundManager.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\SoundManager.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAswEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T19:10:03.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OptionsUI.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\UI\\OptionsUI.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\UI\\OptionsUI.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\UI\\OptionsUI.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\UI\\OptionsUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T19:08:36.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResetStaticDataManager.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\ResetStaticDataManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\ResetStaticDataManager.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\ResetStaticDataManager.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\ResetStaticDataManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:55:52.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameInput.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\GameInput.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\GameInput.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\GameInput.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\GameInput.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:15:34.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeliveryManager.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\DeliveryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\DeliveryManager.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\DeliveryManager.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\DeliveryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T21:18:01.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeliveryManagerUI.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\UI\\DeliveryManagerUI.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\UI\\DeliveryManagerUI.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\UI\\DeliveryManagerUI.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\UI\\DeliveryManagerUI.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T18:09:13.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeliveryManagerSingleUI.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\UI\\DeliveryManagerSingleUI.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\UI\\DeliveryManagerSingleUI.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\UI\\DeliveryManagerSingleUI.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\UI\\DeliveryManagerSingleUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T18:05:45.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PlateIconsUI.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\PlateIconsUI.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\PlateIconsUI.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\PlateIconsUI.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\PlateIconsUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:18:27.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RecipeListSO.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\ScriptableObjects\\RecipeListSO.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\ScriptableObjects\\RecipeListSO.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\ScriptableObjects\\RecipeListSO.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\ScriptableObjects\\RecipeListSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T21:27:19.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CuttingCounter.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\Counters\\CuttingCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\Counters\\CuttingCounter.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\Counters\\CuttingCounter.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\Counters\\CuttingCounter.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowFoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:18:28.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseCounter.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\Counters\\BaseCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\Counters\\BaseCounter.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\Counters\\BaseCounter.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\Counters\\BaseCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:24:29.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TrashCounter.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\Counters\\TrashCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\Counters\\TrashCounter.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\Counters\\TrashCounter.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\Counters\\TrashCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:50:16.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KitchenGameManager.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\KitchenGameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\KitchenGameManager.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\KitchenGameManager.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\KitchenGameManager.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAIwEEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:17:10.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PlateIconsSingleUI.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\PlateIconsSingleUI.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\PlateIconsSingleUI.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\PlateIconsSingleUI.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\PlateIconsSingleUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:26:27.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GamePauseUI.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\UI\\GamePauseUI.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\UI\\GamePauseUI.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\UI\\GamePauseUI.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\UI\\GamePauseUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:27:06.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainMenuUI.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\UI\\MainMenuUI.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\UI\\MainMenuUI.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\UI\\MainMenuUI.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\UI\\MainMenuUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:47:44.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Loader.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\Loader.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\Loader.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\Loader.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\Loader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:51:57.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeliveryCounter.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\Counters\\DeliveryCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\Counters\\DeliveryCounter.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\Counters\\DeliveryCounter.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\Counters\\DeliveryCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T05:56:24.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClearCounter.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\Counters\\ClearCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\Counters\\ClearCounter.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\Counters\\ClearCounter.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\Counters\\ClearCounter.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T02:37:33.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PlatesCounterVisual.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\Counters\\PlatesCounterVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\Counters\\PlatesCounterVisual.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\Counters\\PlatesCounterVisual.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\Counters\\PlatesCounterVisual.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:16:21.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FryingRecipeSO.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\ScriptableObjects\\FryingRecipeSO.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\ScriptableObjects\\FryingRecipeSO.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\ScriptableObjects\\FryingRecipeSO.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\ScriptableObjects\\FryingRecipeSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:06:56.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StoveCounterVisual.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\StoveCounterVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\StoveCounterVisual.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\StoveCounterVisual.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\StoveCounterVisual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:37:13.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StoveCounter.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\Counters\\StoveCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\Counters\\StoveCounter.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\Counters\\StoveCounter.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\Counters\\StoveCounter.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAYwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:04:57.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RecipeSO.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\ScriptableObjects\\RecipeSO.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\ScriptableObjects\\RecipeSO.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\ScriptableObjects\\RecipeSO.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\ScriptableObjects\\RecipeSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T21:19:10.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "KitchenObject.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\KitchenObject.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\KitchenObject.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\KitchenObject.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\KitchenObject.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA5wCoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T02:57:14.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PlateCompleteVisual.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\PlateCompleteVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\PlateCompleteVisual.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\PlateCompleteVisual.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\PlateCompleteVisual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T03:20:44.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PlateKitchenObject.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\PlateKitchenObject.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\PlateKitchenObject.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\PlateKitchenObject.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\PlateKitchenObject.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowC8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T02:38:20.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PlatesCounter.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\Counters\\PlatesCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\Counters\\PlatesCounter.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\Counters\\PlatesCounter.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\Counters\\PlatesCounter.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:56:57.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CuttingCounterVisual.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\Counters\\CuttingCounterVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\Counters\\CuttingCounterVisual.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\Counters\\CuttingCounterVisual.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\Counters\\CuttingCounterVisual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:16:12.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProgressBarUI.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\ProgressBarUI.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\ProgressBarUI.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\ProgressBarUI.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\ProgressBarUI.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:49:19.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IHasProgress.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\IHasProgress.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\IHasProgress.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\IHasProgress.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\IHasProgress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:48:48.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BurningRecipeSO.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\ScriptableObjects\\BurningRecipeSO.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\ScriptableObjects\\BurningRecipeSO.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\ScriptableObjects\\BurningRecipeSO.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\ScriptableObjects\\BurningRecipeSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T18:20:39.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LookAtCamera.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\LookAtCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\LookAtCamera.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\LookAtCamera.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\LookAtCamera.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:47:06.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Program Files\\Unity Projects\\My Overcooked Game\\Assets\\_Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:38:17.975Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
